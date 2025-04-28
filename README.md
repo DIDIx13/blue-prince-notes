@@ -28,15 +28,20 @@ italic : _buried_, _beside_, _west_, _bridge_
 ## Labo
 
 Pu S H Th Re Eu Pa F Te Rn I Ne
+
 `Push three up after nine `
 
 ## Math
 
 Add = blue
+
 Sub = yellow
+
 multi = rose
+
 div = violent
-"Don't square till you're there!"
+
+`Don't square till you're there!`
 
 ## Safes
 C
@@ -45,22 +50,29 @@ E
 T
 dates
 
-Boudoir 25 dec
-Office 03 mars
-x Study 08 dec
-x Draft 08 nov
-x Drawing room 4W 15M+parapluie
+- [x] Boudoir 25 dec
+- [x] Office 03 mars
+- [x] Study 08 dec
+- [x] Draft 08 nov
+- [x] Drawing room 4W 15M+parapluie
+- [ ] ?
+- [ ] ?
+- [ ] ?
 
 ## Music Partitions 
 Music Room : Pages 1, 2, 3 and 4
+
 Green House : Page 5
+
 Ballroom : Pages 6 and 7
+
 Workshop : Page 8
 
 `First words on the sheets are true message`
 `Find among the white trees under two stones`
 
 ## Tomb
+
 Open
 1. Paysan carré
 2. Chef
@@ -90,7 +102,9 @@ Open
 6
 ```
 
+
 Orinda Aries train metro
+```
 Major:
 8 Royal station
 9 Mainway station
@@ -100,7 +114,8 @@ Major:
 12 Orindia Station
 4 Ruffington
 13 Dead end
-
+```
+```
 Minor:
 2 East depot
 3 Aries crossing
@@ -110,7 +125,7 @@ Minor:
 14 Trinsdale
 15 Canyon pass
 16 Border line
-
+```
 ## Vine cellar
 ```
 Row 1: PIGS - SAND - MAIL - DATE - HEAD
